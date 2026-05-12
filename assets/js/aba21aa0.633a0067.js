@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunktitanx_agriculture_solutions_docs=globalThis.webpackChunktitanx_agriculture_solutions_docs||[]).push([[742],{7093(s){s.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"default"}')}}]);
