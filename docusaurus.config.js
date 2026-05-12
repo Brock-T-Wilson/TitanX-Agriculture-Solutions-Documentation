@@ -8,13 +8,12 @@ const config = {
 
   favicon: 'img/favicon.png',
 
-  url: 'http://localhost',
-
-  baseUrl: '/',
+url: 'https://Brock-T-Wilson.github.io',
+baseUrl: '/TitanX-Agriculture-Solutions-Documentation/',
 
   organizationName: 'Brock-T-Wilson',
 
-  projectName: 'titanx-agriculture-solutions-docs',
+  projectName: 'TitanX-Agriculture-Solutions-Documentation',
 
   onBrokenLinks: 'warn',
 
